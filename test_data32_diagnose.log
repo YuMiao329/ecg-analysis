@@ -1,0 +1,8 @@
+
+WARNING:root:Voltage is exceeding normal range at line 21, in the file test_data32.csv
+INFO:root:Start analyzing of ECG trace of file test_data32
+INFO:root:Start calculation/assigning duration of ECG trace of file test_data32
+INFO:root:Start calculation/assigning voltage_extremes of ECG trace of file test_data32
+INFO:root:Start calculation/assigning num_beats of ECG trace of file test_data32
+INFO:root:Start calculation/assigning mean_hr_bpm of ECG trace of file test_data32
+INFO:root:Start calculation/assigning where the beats of ECG trace of file test_data32

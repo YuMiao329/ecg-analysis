@@ -1,0 +1,6 @@
+INFO:root:Start analyzing of ECG trace of file test_data7
+INFO:root:Start calculation/assigning duration of ECG trace of file test_data7
+INFO:root:Start calculation/assigning voltage_extremes of ECG trace of file test_data7
+INFO:root:Start calculation/assigning num_beats of ECG trace of file test_data7
+INFO:root:Start calculation/assigning mean_hr_bpm of ECG trace of file test_data7
+INFO:root:Start calculation/assigning where the beats of ECG trace of file test_data7
